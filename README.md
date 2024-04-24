@@ -10,3 +10,11 @@ The decreasing seawater pH trend associated with increasing atmospheric carbon d
 We provide the trained models for Palma bay and Cabrera, `Bidirectional_LSTM_Palma_final.h5` and `Bidirectional_LSTM_Cabrera_final.h5`, respectively.
 
 To apply those models (that in principle are just valid for those locations, but you can try with data from other zones!) just see the example in `Model_application.ipynb`.
+
+# Requirements
+
+The `Model_application.ipynb` notebook should run without problems if the following libraries are installed together with Python 3.xx (tested with 3.11)
+
+- Tensorflow 2.12
+- Pandas
+- Matplotlib

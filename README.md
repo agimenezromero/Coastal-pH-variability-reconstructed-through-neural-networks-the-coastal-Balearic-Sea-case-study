@@ -1,4 +1,4 @@
-# Coastal-pH-variability-reconstructed-through-neural-networks-the-coastal-Balearic-Sea-case-study
+# Coastal pH variability reconstructed through neural networks: the coastal Balearic Sea case study
 This repository contains the code and data used to produce the results published in [Scientific Reports](https://www.nature.com/articles/s41598-022-17253-5)
 
 ## Abstract
